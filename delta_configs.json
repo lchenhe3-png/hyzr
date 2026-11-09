@@ -1,13 +1,13 @@
 [
   {
-    "fileName": "Delta_Pro_Config.zip",
-    "description": "三角洲行动专业版配置，解锁高画质与 120 帧",
+    "fileName": "游戏保镖",
+    "description": "游戏保镖 美化+透视 全新UI",
     "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/Doula_1793099691617_a62228d7.jpg",
     "targetPath": "/sdcard/Android/data/com.tencent.tmgp.dfm/files/"
   },
   {
-    "fileName": "Delta_Stable_Config.zip",
-    "description": "三角洲行动稳定版配置，防封号，适合日常",
+    "fileName": "杨雪梅花",
+    "description": "杨雪三角洲美化",
     "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/Doula_1793099691617_a62228d7.jpg",
     "targetPath": "/data/data/com.tencent.tmgp.dfm/files/"
   }

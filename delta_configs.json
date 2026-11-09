@@ -2,13 +2,13 @@
   {
     "fileName": "游戏保镖",
     "description": "游戏保镖 美化+透视 全新UI",
-    "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/Doula_1793099691617_a62228d7.jpg",
-    "targetPath": "/sdcard/Android/data/com.tencent.tmgp.dfm/files/"
+    "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/wenjian/sanjiao/EntranceFlow.lua",
+    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/BusinessEntrance/"
   },
   {
     "fileName": "杨雪梅花",
     "description": "杨雪三角洲美化",
-    "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/Doula_1793099691617_a62228d7.jpg",
-    "targetPath": "/data/data/com.tencent.tmgp.dfm/files/"
+    "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/wenjian/sanjiao/DFMMain.lua",
+    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/"
   }
 ]

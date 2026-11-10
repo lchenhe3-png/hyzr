@@ -3,14 +3,14 @@
     "fileName": "EntranceFlow.lua",
     "description": "游戏保镖v5.1 美化+透视 全新UI",
     "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/wenjian/sanjiao/EntranceFlow.lua",
-    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/BusinessEntrance/"
+    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/BusinessEntrance/",
     "packageName": "com.tencent.tmgp.dfm"
   },
   {
     "fileName": "DFMMain.lua",
     "description": "杨雪三角洲美化v1.8",
     "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/wenjian/sanjiao/DFMMain.lua",
-    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/"
+    "targetPath": "/storage/emulated/0/Android/data/com.tencent.tmgp.dfm/files/UE4Game/DeltaForce/DeltaForce/Saved/LuaDebug/LuaSource/DFM/",
     "packageName": "com.tencent.tmgp.dfm"
   }
 ]

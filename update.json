@@ -1,7 +1,7 @@
 {
   "versionName": "1.1",
   "versionCode": 10100,
-  "updateLog": "1.优化了启动页面\n2.优化了终端UI和逻辑\n3.优化了切换深色模式动画\n4.修复了注入后跳转游戏失败问题",
+  "updateLog": "1.优化了启动页面\n2.优化了终端UI和逻辑\n3.优化了切换深色模式动画\n4.修复了注入后跳转游戏失败问题\n5.临时紧急修复下载问题",
   "downloadUrl": "https://raw.githubusercontent.com/lchenhe3-png/hyzr/refs/heads/main/banben/HYZY_1.1.apk",
   "forceUpdate": true
 }
